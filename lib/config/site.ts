@@ -36,7 +36,7 @@ export const siteConfig = {
 
   // Socials
   links: {
-    github: "https://github.com/YOUR_GITHUB_USERNAME/SearchMind-AI",
+    github: "https://github.com/MANAGERTCPHI/SearchMind-AI",
     twitter: "https://x.com/searchmindai",
     linkedin: "https://linkedin.com/company/searchmind-ai",
   },
